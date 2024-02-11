@@ -13,7 +13,15 @@
 
 <h3 align="left">Repository Guide:</h3>
 <p align="left">
-  
+  # Repository Contents
+
+- **GoIT Courses**
+  - Python Core
+  - Python Web
+  - Python Data Science
+  - HTML, CSS & JS
+
+- **Pet Python Projects**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
