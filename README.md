@@ -16,7 +16,7 @@
   # Repository Contents
 
 - **GoIT Courses**
-  - Python Core (https://github.com/Nikita-devel/Python_Core)
+  - <a href="https://github.com/Nikita-devel/Python_Core">Python Core </a>
   - Python Web
   - Python Data Science
   - HTML, CSS & JS
