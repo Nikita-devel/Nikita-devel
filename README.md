@@ -13,7 +13,6 @@
 
 <h3 align="left">Repository Guide:</h3>
 <p align="left">
-  # Repository Contents
 
 - **GoIT Courses**
   - <a href="https://github.com/Nikita-devel/Python_Core">Python Core </a>
