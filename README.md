@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science with Goit**
 
-- 🤝 I’m looking for help with **find a job**
+- 🤝 I'm currently in search of a job and seeking assistance or advice. If anyone has information about job opportunities, networking tips, or guidance on the job search process, I would greatly appreciate any support or insights. Thank you!
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikita-devel](https://github.com/Nikita-devel)
 
