@@ -17,7 +17,7 @@
 - **GoIT Courses**
   - <a href="https://github.com/Nikita-devel/Python_Core">Python Core </a>
   - <a href="https://github.com/Nikita-devel/Python_Web">Python Web </a>
-  - Python Data Science
+  - <a href="https://github.com/Nikita-devel/Python_Data_Science">Python Data Science</a>
   - HTML, CSS & JS
 
 - **Pet Python Projects**
