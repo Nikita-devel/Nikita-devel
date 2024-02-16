@@ -20,7 +20,7 @@
   - <a href="https://github.com/Nikita-devel/Python_Data_Science">Python Data Science</a>
   - <a href="https://github.com/Nikita-devel/HTML_CSS_JS">HTML, CSS & JS</a>
 
-- **Pet Python Projects**
+- <a href="https://github.com/Nikita-devel/Pet_Python_Projecrs">**Pet Python Projects**</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
