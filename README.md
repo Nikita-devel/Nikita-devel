@@ -18,7 +18,7 @@
   - <a href="https://github.com/Nikita-devel/Python_Core">Python Core </a>
   - <a href="https://github.com/Nikita-devel/Python_Web">Python Web </a>
   - <a href="https://github.com/Nikita-devel/Python_Data_Science">Python Data Science</a>
-  - HTML, CSS & JS
+  - <a href="https://github.com/Nikita-devel/HTML_CSS_JS">HTML, CSS & JS</a>
 
 - **Pet Python Projects**
 </p>
