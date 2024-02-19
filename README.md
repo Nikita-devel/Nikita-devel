@@ -10,7 +10,9 @@
 - 📫 How to reach me **brseven90@gmail.com**
 
 - ⚡ Fun fact **I'm a handball player**
-
+  
+<a href="https://github.com/Nikita-devel/My_Resume">**My Resume**</a>
+  
 <h3 align="left">Repository Guide:</h3>
 <p align="left">
 
