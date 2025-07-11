@@ -24,7 +24,7 @@
 
 - <a href="https://github.com/Nikita-devel/Pet_Python_Projecrs">**Pet Python Projects**</a>
 
-- **Piscine 42 Lyon**
+- **42 Lyon**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
