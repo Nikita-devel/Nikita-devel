@@ -23,6 +23,8 @@
   - <a href="https://github.com/Nikita-devel/HTML_CSS_JS">HTML, CSS & JS</a>
 
 - <a href="https://github.com/Nikita-devel/Pet_Python_Projecrs">**Pet Python Projects**</a>
+
+- **Piscine 42 Lyon**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
