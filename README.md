@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">A passionate python developer from Ukraine</h3>
+<h1 align="center">Hi, I'm Nikita 👋</h1>
+<h3 align="center">CS student @ INSA Lyon & 42 Lyon · Backend & Systems Programming</h3>
 
-- 🌱 I’m currently learning **Data Science with Goit**
-
-- 🤝 I'm currently in search of a job and seeking assistance or advice. If anyone has information about job opportunities, networking tips, or guidance on the job search process, I would greatly appreciate any support or insights. Thank you!
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nikita-devel](https://github.com/Nikita-devel)
-
-- 📫 How to reach me **nikita.chumak@insa-lyon.fr**
-
-- ⚡ Fun fact **I'm a handball player**
-  
-<a href="https://github.com/Nikita-devel/My_Resume">**My Resume**</a>
-  
-<h3 align="left">Repository Guide:</h3>
-<p align="left">
-
-- **GoIT Courses**
-  - <a href="https://github.com/Nikita-devel/Python_Core">Python Core </a>
-  - <a href="https://github.com/Nikita-devel/Python_Web">Python Web </a>
-  - <a href="https://github.com/Nikita-devel/Python_Data_Science">Python Data Science</a>
-  - <a href="https://github.com/Nikita-devel/HTML_CSS_JS">HTML, CSS & JS</a>
-
-- <a href="https://github.com/Nikita-devel/Pet_Python_Projecrs">**Pet Python Projects**</a>
-
-- **42 Lyon**
+<p align="center">
+  🇺🇦 From Ukraine, based in Lyon, France · Seeking a <b>Software Engineering Internship — Summer 2027</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### About me
+
+- 🎓 Dual education: **INSA Lyon** (engineering, math, algorithms) + **École 42 Lyon** (systems programming in C/C++)
+- 💼 Built a custom business application for **Peyre S.A.** during my internship — now developing apps for small companies with ongoing maintenance contracts
+- 🔧 Main stack: **Python** (Django, Flask, FastAPI), **C/C++**, **SQL**, Docker, Linux
+- 🛡️ Interested in **cybersecurity**, **backend development**, and **AI**
+- 🤾 Former professional handball player — 8 years, European tournaments for Ukraine. Now training for an Ironman (2027)
+- 📫 Reach me: **nikita.chumak@insa-lyon.fr** · [LinkedIn](www.linkedin.com/in/chumak-nikita)
+
+---
+
+### Featured projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project 1](link) | One line: what it does + what problem it solves | Python, FastAPI, PostgreSQL |
+| [Project 2](link) | ... | C, Linux |
+| [Project 3](link) | ... | Django, Docker |
+
+---
+
+### Repositories
+
+**École 42 Lyon** — systems programming in C
+- [Libft](link) · [ft_printf](link) · [get_next_line](link) · *(додай свої)*
+
+**Python & Web**
+- [Pet Python Projects](https://github.com/Nikita-devel/Pet_Python_Projects)
+- [Python Web](https://github.com/Nikita-devel/Python_Web) · [Python Data Science](https://github.com/Nikita-devel/Python_Data_Science)
+
+---
+
+### Languages & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikita-devel&show_icons=true&theme=default&hide_border=true" height="150"/>
+</p>
