@@ -22,20 +22,20 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project 1](link) | One line: what it does + what problem it solves | Python, FastAPI, PostgreSQL |
-| [Project 2](link) | ... | C, Linux |
-| [Project 3](link) | ... | Django, Docker |
+| [Project 1](link) | ... | ... |
+| [Project 2](link) | ... | ... |
+| [Project 3](link) | ... | ... |
 
 ---
 
 ### Repositories
 
 **École 42 Lyon** — systems programming in C
-- [Libft](link) · [ft_printf](link) · [get_next_line](link) · *(додай свої)*
+
 
 **Python & Web**
-- [Pet Python Projects](https://github.com/Nikita-devel/Pet_Python_Projects)
-- [Python Web](https://github.com/Nikita-devel/Python_Web) · [Python Data Science](https://github.com/Nikita-devel/Python_Data_Science)
+- [Pet Python Projects](https://github.com/Nikita-devel/Pet_Python_Projecrs)
+- [Python Web](https://github.com/Nikita-devel/Python_Web)
 
 ---
 
