@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikita-devel](https://github.com/Nikita-devel)
 
-- 📫 How to reach me **brseven90@gmail.com**
+- 📫 How to reach me **nikita.chumak@insa-lyon.fr**
 
 - ⚡ Fun fact **I'm a handball player**
   
