@@ -30,7 +30,7 @@ I build backend, AI and infrastructure tools that end up **used in production**,
 <details>
 <summary>Coursework & team projects</summary>
 
-- [Python_Core](https://github.com/Nikita-devel/Python_Core) · [Python_Web](https://github.com/Nikita-devel/Python_Web) · [Python_Data_Science](https://github.com/Nikita-devel/Python_Data_Science) — GoIT Python Developer programme (incl. scikit-learn, TensorFlow/Keras)
+- [goit-python-coursework](https://github.com/Nikita-devel/goit-python-coursework) — GoIT Python Developer programme: Core, Web, Data Science (incl. scikit-learn, TensorFlow/Keras)
 - [dedalus_project](https://github.com/Pelmenoff/dedalus_project) — GoIT team project (contributor)
 - [INSA_Project_G1](https://github.com/Nikita-devel/INSA_Project_G1) — INSA Lyon group project
 
