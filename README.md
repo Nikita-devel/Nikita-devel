@@ -1,61 +1,51 @@
-<h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">CS student @ INSA Lyon & 42 Lyon · Backend & Systems Programming</h3>
+<div align="center">
 
-<p align="center">
-  🇺🇦 From Ukraine, based in Lyon, France · Seeking a <b>Software Engineering Internship — Summer 2027</b>
-</p>
+### Nikita Chumak — Backend, AI & Security Engineering
 
----
+Engineering student at **INSA Lyon** · founder of **NC Dev** (Python & AI automation for SMEs) · Lyon, France 🇺🇦🇫🇷
 
-### About me
+[Projects](#projects) · [Stack](#stack) · [Contact](#contact)
 
-- 🎓 Dual education: **INSA Lyon** (engineering, math, algorithms) + **École 42 Lyon** (systems programming in C/C++)
-- 💼 Built a custom business application for **Peyre S.A.** during my internship — now developing apps for small companies with ongoing maintenance contracts
-- 🔧 Main stack: **Python** (Django, Flask, FastAPI), **C/C++**, **SQL**, Docker, Linux
-- 🛡️ Interested in **cybersecurity**, **backend development**, and **AI**
-- 🤾 Former professional handball player — 8 years, European tournaments for Ukraine. Now training for an Ironman (2027)
-- 📫 Reach me: **nikita.chumak@insa-lyon.fr** · [LinkedIn](www.linkedin.com/in/chumak-nikita)
+</div>
 
 ---
 
-### Featured projects
+I build backend, AI and infrastructure tools that end up **used in production**, not just demoed.
 
-| Project | Description | Tech |
-|---|---|---|
-| [Project 1](link) | ... | ... |
-| [Project 2](link) | ... | ... |
-| [Project 3](link) | ... | ... |
+- 🏭 **Industrial apps for a 42-person sheet-metal manufacturer** — 1D cutting optimisation (Best Fit Decreasing) and a production-planning app used daily on the shop floor. 30 min → 3 min per job file.
+- 🔎 **RAG assistant for French labour law** — hybrid retrieval + reranking, Recall@5 0.85, every answer cites its sources. Deployed on Cloud Run.
+- 📬 **AI email-triage agent** — Claude tool-use, idempotent processing, retries, replayable failure queue, evaluated against a baseline.
+- 🛡️ **Self-hosted infrastructure** — Docker Compose, Tailscale (zero exposed ports), encrypted & verified Restic backups.
 
----
+## Projects
 
-### Repositories
+| Project | What it shows | Stack | Read more |
+|---|---|---|---|
+| [rag-assistant](https://github.com/Nikita-devel/rag-assistant) | Retrieval quality measured, not guessed | FastAPI · ChromaDB · BM25 · Cloud Run | [case study](https://github.com/Nikita-devel/rag-assistant/blob/main/docs/case-study.en.md) · [live demo](https://assistant-droit-travail-405627799203.europe-west9.run.app) |
+| [ai-agent-email-triage](https://github.com/Nikita-devel/ai-agent-email-triage) | Reliable LLM automation | Python · Claude API · Gmail API | [readme](https://github.com/Nikita-devel/ai-agent-email-triage#readme) |
+| [Peyre S.A. case study](https://github.com/Nikita-devel/Peyre-Case) | Real users, measured impact | Python · Pandas · Streamlit · SQLite | [case study (FR)](https://nikita-devel.github.io/Peyre-Case/) |
+| [homelab-infra](https://github.com/Nikita-devel/homelab-infra) | Ops & security hygiene | Docker · Tailscale · Restic · Bash | [readme](https://github.com/Nikita-devel/homelab-infra#readme) |
+| [parking-system-api](https://github.com/Nikita-devel/parking-system-api) | Team lead, 4 devs, Scrum | FastAPI · PostgreSQL · Alembic · Docker | [readme](https://github.com/Nikita-devel/parking-system-api#readme) |
 
-**École 42 Lyon** — systems programming in C
+<details>
+<summary>Coursework & team projects</summary>
 
+- [Python_Core](https://github.com/Nikita-devel/Python_Core) · [Python_Web](https://github.com/Nikita-devel/Python_Web) · [Python_Data_Science](https://github.com/Nikita-devel/Python_Data_Science) — GoIT Python Developer programme (incl. scikit-learn, TensorFlow/Keras)
+- [dedalus_project](https://github.com/Pelmenoff/dedalus_project) — GoIT team project (contributor)
+- [INSA_Project_G1](https://github.com/Nikita-devel/INSA_Project_G1) — INSA Lyon group project
 
-**Python & Web**
-- [Pet Python Projects](https://github.com/Nikita-devel/Pet_Python_Projecrs)
-- [Python Web](https://github.com/Nikita-devel/Python_Web)
+</details>
 
----
+## Stack
 
-### Languages & Tools
+**Core:** Python · SQL · C · Bash  
+**Backend:** FastAPI · Django · Flask · SQLAlchemy · PostgreSQL · SQLite  
+**AI & Data:** RAG · LLM tool-use · Pandas · NumPy · scikit-learn · TensorFlow/Keras  
+**Security & Infra:** Linux · Docker · GitHub Actions · Google Cloud Run · Tailscale · Metasploit
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikita-devel&show_icons=true&theme=default&hide_border=true" height="150"/>
-</p>
+INSA Lyon (AMERINSA) → targeting the **Informatique** department (AI & cybersecurity).  
+Open to: **software engineering internship, summer 2027** · freelance backend/automation projects.
+
+📫 nikita.chumak@insa-lyon.fr · [LinkedIn](https://linkedin.com/in/chumak-nikita)
