@@ -25,7 +25,7 @@ I build backend, AI and infrastructure tools that end up **used in production**,
 | [ai-agent-email-triage](https://github.com/Nikita-devel/ai-agent-email-triage) | Reliable LLM automation | Python · Claude API · Gmail API | [readme](https://github.com/Nikita-devel/ai-agent-email-triage#readme) |
 | [Peyre S.A. case study](https://github.com/Nikita-devel/Peyre-Case) | Real users, measured impact | Python · Pandas · Streamlit · SQLite | [case study (FR)](https://nikita-devel.github.io/Peyre-Case/) |
 | [homelab-infra](https://github.com/Nikita-devel/homelab-infra) | Ops & security hygiene | Docker · Tailscale · Restic · Bash | [readme](https://github.com/Nikita-devel/homelab-infra#readme) |
-| [parking-system-api](https://github.com/Nikita-devel/parking-system-api) | Team lead, 4 devs, Scrum | FastAPI · PostgreSQL · Alembic · Docker | [readme](https://github.com/Nikita-devel/parking-system-api#readme) |
+| [parking-system-api](https://github.com/Nikita-devel/parking-system-api) | Plate recognition (CV) · team lead, 4 devs, Scrum | FastAPI · PostgreSQL · Keras · OpenCV | [readme](https://github.com/Nikita-devel/parking-system-api#readme) |
 
 <details>
 <summary>Coursework & team projects</summary>
